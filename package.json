@@ -1,0 +1,20 @@
+{
+  "name": "themoviedb_consumoapi",
+  "version": "1.0.0",
+  "description": "Este es un proyecto práctico del curso de consumo de API REST con javascript del Platzi.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclosadab1996/TheMovieDB_ConsumoAPI.git"
+  },
+  "keywords": [],
+  "author": "Juan Camilo Losada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclosadab1996/TheMovieDB_ConsumoAPI/issues"
+  },
+  "homepage": "https://github.com/jclosadab1996/TheMovieDB_ConsumoAPI#readme"
+}
